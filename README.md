@@ -1,7 +1,7 @@
 # HTTP 서버 구현하기 미션
 
-[1단계 Pull Request](https://github.com/woowacourse/jwp-dashboard-http/pull/61)
-[2단계 Pull Request](https://github.com/woowacourse/jwp-dashboard-http/pull/103)
+* [1단계 Pull Request](https://github.com/woowacourse/jwp-dashboard-http/pull/61)
+* [2단계 Pull Request](https://github.com/woowacourse/jwp-dashboard-http/pull/103)
 
 
 ## 1단계 HTTP 서버 구현하기
